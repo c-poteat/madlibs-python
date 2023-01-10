@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the project was to create a simple madlibs text game utilizing user input.
+The purpose of the project was to create a simple [madlibs](https://en.wikipedia.org/wiki/Mad_Libs) text game utilizing user input.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ The purpose of the project was to create a simple madlibs text game utilizing us
 
 ### Executing program
 
-Make sure you install Python(https://www.python.org/downloads/)
+[Make sure you install Python](https://www.python.org/downloads/)
 
 ## Authors
 
