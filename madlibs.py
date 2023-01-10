@@ -8,15 +8,15 @@ adj_1 = input("Enter an adjective of choice, and press enter:")
 adj_2 = input("Enter a second adjective related to native people of a country, (Example Libyans)")
 year_2 = input("Enter a year in yyyy format, and press enter:")
 verb_3 = input("Enter a third verb of choice, and press enter:")
-verb_4 = input("Enter a fourth verb of choice, and press enter:")
+verb_4 = input("Enter a fourth verb of choice, and press enter:\n")
 
-story = f"It is the year {year}. {firstname} McFly, a mild-mannered high school student, stopped by Dr. Emmett L. Brown's \
+story = f"\nIt is the year {year}. {firstname} McFly, a mild-mannered high school student, stopped by Dr. Emmett L. Brown's \
 laboratory to {verb_1} around with an amplifier. Then he receives a message from Doc that he needs {verb_2} from him for \
 Doc's latest {noun}, a time machine made out of a {adj_1} sports car that can travel through time instantaneously when it reaches a speed \
 velocity of 88 MPH. Then, Doc was gunned down by {adj_2} Nationalists, firstname makes an effort to escape from the {adj_2} \
 by using the time machine. Then {firstname} accidentally warps himself into {year_2} Where he meets both of his parents when they were \
 teenagers, then {firstname} unintentionally {verb_3} his parent's first meeting together, {firstname} then finds a younger version \
-of Doc and together they try to {verb_4} a way to get {firstname}'s parents-to-be back together, and to get {firstname} back to {year}."  
+of Doc and together they try to {verb_4} a way to get {firstname}'s parents-to-be back together, and to get {firstname} back to {year}.\n"  
 print(story)
 
 
