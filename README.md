@@ -14,6 +14,8 @@ The purpose of the project was to create a simple [madlibs](https://en.wikipedia
 
 [Make sure you install Python](https://www.python.org/downloads/)
 
+[Source Code](https://github.com/c-poteat/madlibs-python/blob/main/madlibs.py)
+
 ## Authors
 
 Carnell
